@@ -1,0 +1,23 @@
+
+        .d {
+            background-color: black;
+            text-align: right;
+            text-decoration: none;
+        }
+
+        .d a {
+            color: beige;
+        }
+
+        .h1 {
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 100px;
+        }
+
+        .imag {
+            text-align: center;
+        }
+        .h2{background-color:red;text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font: size 100px;;}
+        .b{background-color: darkgreen;}
+    

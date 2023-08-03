@@ -1,0 +1,12 @@
+.h1{
+    background-color: blue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p{
+    text-align: justify;
+    padding:20px;
+}
+.img img{
+    width="100%"
+}
